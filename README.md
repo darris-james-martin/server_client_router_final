@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=RQm_A099Wac&ab_channel=frostbyte000jm
 ## The Goal
 The goal of this project was to establish a system where multiple clients can connect to multiple servers, but still share information between one another. 
  
+ ![image](https://user-images.githubusercontent.com/93277335/148878981-41f7b6e3-3ff0-4695-8ea4-9c2b0fdc0be6.png)
+
 My design of this system was the following. 
 There are 4 systems:
 1)	The Clients – They can display a message, send a message, send a file, and receive a file. 
